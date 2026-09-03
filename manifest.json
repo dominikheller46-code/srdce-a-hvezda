@@ -1,0 +1,16 @@
+{
+  "name": "Srdce a Hvězda",
+  "short_name": "Srdce",
+  "description": "Dvanáct nano světů. Srdce běží. Ty skáčeš.",
+  "start_url": "./hra.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#07080c",
+  "theme_color": "#07080c",
+  "lang": "cs",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
